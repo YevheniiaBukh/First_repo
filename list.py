@@ -1,6 +1,6 @@
 # my_list = [1, 2, 3, 5, 7, 346, 235, 235, 347, -435, -23, 0]
 # new_list = ['loop', 'start']
-
+# print(max(old_list), min(old_list))
 
 # print(my_list.index(347))
 
@@ -46,6 +46,10 @@
 
 # my_list.sort(reverse=True)
 # print(my_list)
+
+# my_list.reverse()
+# print(my_list)
+
 
 # print(my_list.count(235))
 
